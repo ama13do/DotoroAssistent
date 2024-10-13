@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661301209520",
+    "project_id": "gcp-banorte-hackaton-team-23",
+    "storage_bucket": "gcp-banorte-hackaton-team-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661301209520:android:7f0fa870acb44c9aec0e75",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEOvmiGyop5vXYj8-m_zQxCe5tgQ4E2t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661301209520:android:13e2cd6f12ab1b5fec0e75",
+        "android_client_info": {
+          "package_name": "com.mycompany.dataro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEOvmiGyop5vXYj8-m_zQxCe5tgQ4E2t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
